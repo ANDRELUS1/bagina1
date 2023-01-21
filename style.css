@@ -1,0 +1,449 @@
+@font-face {
+    font-family: "NunitoBold"; 
+    src: url("font/Nunito/static/Nunito-Bold.ttf") format("truetype"); 
+    font-style: bold; 
+    font-weight: normal; 
+    }
+    @font-face {
+        font-family: "NunitoNormal"; 
+        src: url("font/Nunito/static/Nunito-Light.ttf") format("truetype"); 
+        font-style: normal; 
+        font-weight: normal; 
+        } 
+    @font-face {
+        font-family: "MontserratMedium"; 
+        src: url("font/Montserrat/static/Montserrat-Medium.ttf") format("truetype"); 
+        font-style: normal; 
+        font-weight: normal; 
+        } 
+    @font-face {
+        font-family: "MontserratBlack"; 
+        src: url("font/Montserrat/static/Montserrat-Black.ttf") format("truetype"); 
+        font-style: normal; 
+        font-weight: normal; 
+        } 
+
+*{
+    padding: 0;
+    margin: 0;
+}
+.main{
+    width: 1400px;
+    height: 4028px;
+    background: #F9FBFF;
+    margin: 0px;
+}
+.blok1{
+    display: flex;
+    flex-direction: row;
+    justify-content: right;
+}
+.kartinka1{
+    width: 690px;
+    height: 768px;
+    background-image: url(img/30072807_909538065884146_2710474531215143694_o.png);
+    background-size: cover;
+}
+.menyu{
+    background:#415167 ;
+    width: 274px;
+    height: 768px;
+}
+.blok1 img{
+    width: 109.41px;
+    height: 36.36px;
+    margin: 75px 140px 0px 0px;
+}
+.textNaloz1{
+    font-family: "MontserratBlack";
+    font-size: 54px;
+    margin-top: 505px;
+    margin-left: -240px;
+    color: #232C38;
+}
+.textNaloz1 p{
+    margin-bottom: 7px;
+}
+.drugoyText{
+    color: #F9FBFF;
+    background: #C7A17A;
+    display: inline;
+    padding: 4px 15px;
+    margin-left: -15px;
+}
+.menyu img{
+    width: 38px;
+    height: 38px;
+    margin-top: 74px;
+    margin-left: 56px;
+
+}
+.menyu ul li{
+    font-family: "NunitoNormal";
+    color: #EDF0F5;
+    list-style-type: none;
+    margin-bottom: 27.3px;
+
+}
+.menyu ul {
+    margin-left: 58px;
+    margin-top: 114px;
+
+}
+.zagolovok1{
+    font-family: "NunitoBold";
+    color: #EDF0F5;
+    font-weight: bold;
+}
+.blok2{
+    width: 1104px;
+    height: 382.57px;
+    margin:  88px 148px;
+}
+.nazvan1{
+    text-align: center;
+    font-family: "MontserratMedium";
+    font-size: 18px;
+    color: #415167;
+}
+.nazvan2{
+    text-align: center;
+    font-family: "MontserratBlack";
+    margin-top: 4px;
+    font-size: 30px;
+    color: #415167;
+}
+.flex2{
+    margin-top: 75px;
+    display: flex;
+    justify-content: space-between;
+}
+.flex2 div{
+    width: 226px;
+    height: 246.43px;
+}
+.flex2 div img{
+    width: 75px;
+    height: 81px;
+    margin: 15px 0px 0px 76px;
+}
+.zagolov3{
+    text-align: center;
+    font-family: "NunitoBold";
+    color: #232C38;
+    margin-top: 35px;
+    font-size: 24px;
+}
+.text1{
+    text-align: center;
+    font-family: "NunitoNormal";
+    margin-top: 8px;
+}
+
+.main .blok3{
+    margin-top: 130px;
+}
+.siniypramougolnik2{
+    width: 384px;
+    height: 894px;
+    background: #415167;
+}
+.vnutriBlol3{
+    height: 544px;
+    width: 1400px;
+    margin-top: -674px;
+    margin-left: 127px;
+}
+.textchuaungd{
+    margin-top: -676px;
+}
+.flexbox3{
+    display: flex;
+    justify-content: left;
+    margin-bottom: 30px;
+}
+.bloclBox3{
+    width: 559px;
+    height: 256px;
+    margin-right: 30px;
+    display: flex;
+    background: #FFFFFF;
+}
+.bloclBox3t1{
+    font-family: "NunitoBold";
+    color:#C7A17A ;
+    margin-left: 45px;
+    margin-top: 42px;
+    font-size: 20px;
+}
+.bloclBox3t2{
+    font-family: "NunitoBold";
+    color:#232C38 ;
+    margin-left: 46px;
+    margin-top: 4px;
+    font-size: 24px;
+}
+.bloclBox3t3{
+    font-family: "NunitoBold";
+    color:#232C38 ;
+    margin-left: 47px;
+    margin-top: 21px;
+    font-size: 15px;
+}
+.bloclBox3t4{
+    font-family: "NunitoBold";
+    color:#F9FBFF ;
+    margin-left: 46px;
+    font-size: 15px;
+    background: #C7A17A;
+    border-radius: 19px;
+    padding: 5px 25px;
+    display: inline;
+}
+.bloclBox3t4u{
+    margin-top: 40px;
+}
+.bloclBox3t5{
+    font-family: "NunitoBold";
+    color:#232C38 ;
+    margin-left: 208px;
+    margin-top: -17px;
+    font-size: 16px;
+}
+.strelkaa{
+    width: 66px;
+    height: 66px;
+    margin: 308px 0px 0px 1277px;
+}
+.bokkkk{
+    width:100px;
+    height: 256px;
+    opacity: 50%;
+}
+.adsfasdf{
+    background: lightcoral;
+    width: 111px;
+    height: 300px;
+}
+.blol4{
+    width: 1076px;
+    height: 802px;
+    background: #EDF0F5;
+    margin-top: 365px;
+}
+.textchuaungd2{
+    margin-left: 304px;
+    padding-top: 91px;
+}
+.osnovnoyblok4{
+    background: white;
+    width: 882px;
+    height: 464px;
+    margin-top: 65px;
+    margin-left: 385px;
+    display: flex;
+    justify-content: space-between;
+}
+.bankachaya{
+    height: 400px;
+    margin-left: -250px;
+    margin-top: 55px;
+}
+.kraybloka4{
+    width: 90px;
+    height: 464px;
+    display: flex;
+    
+}
+.odinblik4{
+    width: 90px;
+    height: 154px;
+    text-align: center;
+}
+.odinblik42{
+    width: 90px;
+    height: 154px;
+    background:  #EDF0F5;
+    text-align: center;
+}
+.odinblik4 p{
+    padding-top: 55px;
+}
+.odinblik42 p{
+    padding-top: 55px;
+    opacity: 30%;
+}
+.opisanievbloke4{
+    width: 440px;
+    margin-left: 30px;
+}
+.bloclBox4t1{
+    margin-top: 64px;
+    margin-left: 6px;
+    font-family: "NunitoBold";
+    color:#C7A17A ;
+    font-size: 20px;
+}
+.blol4text2{
+    font-family: "NunitoBold";
+    color:#232C38 ;
+    font-size: 24px;
+    margin-top: 4px;
+    margin-left: 4px;
+}
+.blol4text3{
+    font-family: "NunitoNormal";
+    color:#232C38 ;
+    font-size: 16px;
+    margin-top: 12px;
+    margin-left: 2px;
+}
+.flexvnutriblok4{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 33px;
+    margin-left: 3px;
+    font-family: "NunitoNormal";
+    color:#232C38 ;
+    font-size: 16px;
+    width: 397px;
+}
+.drugoyyytext{
+    font-family: "NunitoBold";
+}
+.flexvnutriblok4 img{
+    width: 30px;
+    height: 25px;   
+}
+
+
+
+
+
+.blok5{
+    display: flex;
+    justify-content: space-between;
+    height: 910px;
+}
+.pervayacast5{
+    width: 1075px;
+}
+.vtorayachast5{
+    width: 325px;
+    background: #415167;
+}
+.vnutribloka5toari{
+    height: 565px;
+    width: 1274px;
+    margin-left: -950px;
+    margin-top: 218px;
+    display: flex;
+    justify-content: space-between;
+}
+.teeblok5{
+    width: 363px;
+    height: 563px;
+    background: #FFFFFF ;
+}
+.teeblok5 img{
+    width: 363px;
+}
+.ogrizokblok5{
+    width: 102px;
+    height: 563px;
+    background: #FFFFFF ;
+}
+.ogrizokblok5 img{
+    width: 102px;
+}
+
+.cenablock5{
+    font-family: "NunitoBold";
+    color:#C7A17A ;
+    font-size: 20px;
+    margin-top: 33px;
+    margin-left: 45px;
+}
+.starayacena{
+    font-family: "NunitoBold";
+    color:#C7A17A ;
+    font-size: 14px;
+    margin-top: -23px;
+    margin-left: 140px;
+    text-decoration: line-through;
+}
+.textPodCenoy{
+    font-family: "NunitoBold";
+    color:#232C38 ;
+    font-size: 24px;
+    margin-top: 12px;
+    margin-left: 42px;
+}
+.textmalenkiy5blolk{
+    font-family: "NunitoNormal";
+    color:#232C38 ;
+    font-size: 15px;
+    margin-top: 5px;
+    margin-left: 50px;
+}
+.bloclBox3t44{
+    font-family: "NunitoBold";
+    color:#F9FBFF ;
+    margin-left: 7px;
+    font-size: 15px;
+    background: #C7A17A;
+    border-radius: 19px;
+    padding: 8px 41px;
+    display: inline;
+}
+.bloclBox3t44u{
+    margin-top: 37px;
+}
+.bloclBox3t54{
+    font-family: "NunitoBold";
+    color:#232C38 ;
+    margin-left: 295px;
+    margin-top: -17px;
+    font-size: 16px;
+}
+.bloclBox3t45u{
+    margin-top: 40px;
+}
+.bloclBox3t45{
+    font-family: "NunitoBold";
+    color:#F9FBFF ;
+    margin-left: 46px;
+    font-size: 15px;
+    background: #C7A17A;
+    border-radius: 19px;
+    padding: 5px 25px;
+    display: inline;
+}
+.bloclBox3t55{
+    font-family: "NunitoBold";
+    color:#232C38 ;
+    margin-left: 242px;
+    margin-top: -17px;
+    font-size: 16px;
+}
+.strelkaa2{
+    width: 66px;
+    height: 66px;
+    margin-left: 203px;
+    padding-top: -1500px;
+    margin-top: -1500px;
+    padding-bottom: 290px;
+}
+.podval{
+    width: 1400px;
+    height: 61px;
+    background:  #EDF0F5;
+    text-align: center;
+
+}
+.podval p{
+    font-family: "NunitoNormal";
+    color:#232C38 ;
+    padding-top: 20px;
+    font-size: 16px;
+}
